@@ -23,3 +23,10 @@ Redmine's features include the following[5]:
     Allows multiple databases
     Allows for plugins
     Provides a REST API
+
+
+git merge [-n] [--stat] [--no-commit] [--squash] [--[no-]edit]
+[-s <strategy>] [-X <strategy-option>]
+[--[no-]rerere-autoupdate] [-m <msg>] [<commit>...]
+git merge <msg> HEAD <commit>...
+git merge --abort
