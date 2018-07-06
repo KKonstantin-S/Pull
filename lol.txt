@@ -3,3 +3,23 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/KKonstantin-S/Pull.git
 git push -u origin master
+
+
+Redmine's features include the following[5]:
+
+    Allows tracking of multiple projects
+    Supports flexible role-based access control
+    Includes an issue tracking system
+    Features a Gantt chart and calendar
+    Integrates News, documents and files management
+    Allows Web feeds and e-mail notifications.
+    Supports a per-project wiki and per-project forums
+    Allows simple time tracking
+    Includes custom fields for issues, time-entries, projects and users
+    Supports a range of SCM integration, including (SVN, CVS, Git, Mercurial, Bazaar and Darcs)
+    Supports multiple LDAP authentication
+    Allows user self-registration
+    Supports 34 languages
+    Allows multiple databases
+    Allows for plugins
+    Provides a REST API
